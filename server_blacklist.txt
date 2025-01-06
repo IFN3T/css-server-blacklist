@@ -2,6 +2,12 @@
 {
 	"server"
 	{
+		"name"		"Spamfilter 154.223.16.45"
+		"date"		"1736142120"
+		"addr"		"154.223.16.45"
+	}
+	"server"
+	{
 		"name"		"Spamfilter 45.82.102.18"
 		"date"		"1736142084"
 		"addr"		"45.82.102.18"
