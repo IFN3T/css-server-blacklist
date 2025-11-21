@@ -3,6 +3,72 @@
 	"server"
 	{
 		"name"		"Spamfilter 185.236.23.219"
+		"date"		"1763765468"
+		"addr"		"195.133.46.173"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 185.236.23.219"
+		"date"		"1763765468"
+		"addr"		"194.87.206.109"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 185.236.23.219"
+		"date"		"1763765468"
+		"addr"		"194.87.23.228"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 194.87.47.17"
+		"date"		"1763765468"
+		"addr"		"194.87.47.17"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 194.87.89.141"
+		"date"		"1763765468"
+		"addr"		"194.87.89.141"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 193.124.121.182"
+		"date"		"1763765468"
+		"addr"		"193.124.121.182"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 194.87.23.196"
+		"date"		"1763765468"
+		"addr"		"194.87.23.196"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 94.159.116.58"
+		"date"		"1763765468"
+		"addr"		"94.159.116.58"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 45.11.27.220
+		"date"		"1763765468"
+		"addr"		"45.11.27.220"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 45.11.26.20
+		"date"		"1763765468"
+		"addr"		"45.11.26.20"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 176.119.156.7
+		"date"		"1763765468"
+		"addr"		"176.119.156.7"
+	}
+	"server"
+	{
+		"name"		"Spamfilter 185.236.23.219"
 		"date"		"1740018328"
 		"addr"		"185.236.23.219"
 	}
